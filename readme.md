@@ -2,7 +2,7 @@
 Mindflow.ai is SaaS platform that runs in the background of your dev environment, and creates documentation based on your workflow.
 
 ## Want to join our Alpha release?
-Email me at arieg419@gmail.com and we'll get you set up quickly :zap:
+Email me at arieg419@gmail.com and we'll get you set up :zap:
 
 ### Getting Started
 
@@ -10,7 +10,11 @@ These instructions will show you how to use Mindflow.
 
 ### Quick Start
 
-So far Mindflow.ai supports adding copied text, images and embedding youtube videos.
+So far Mindflow.ai supports 
+	* File watching 
+	* Adding copied text 
+	* Adding images  
+	* Embedding youtube videos
 
 Navigate to the timeline tab. It should be empty.
 
