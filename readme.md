@@ -16,35 +16,35 @@ So far Mindflow.ai supports adding copied text, images and embedding youtube vid
 
 Navigate to the timeline tab. It should be empty.
 
-![Getting Started](https://github.com/Arieg419/MindFlowElectron/blob/master/assets/img/mindflow_intro.gif "Get started")
+![Getting Started](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_intro.gif "Get started")
 
 **Copying text**
 
 Copy some text to your clipboard. Now run `Cmd-C` (Ctrl-C for Windows or Linux). Flip back to Mindflow and navigate to the timeline tab.
 Now run 'Cmd-H' (Ctrl-H for Windows or Linux), You should see the text on the timeline.
 
-![Copy text](https://github.com/Arieg419/MindFlowElectron/blob/master/assets/img/mindflow_copytext.gif "Copy text")
+![Copy text](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_copytext.gif "Copy text")
 
 
 **Copying images**
 
 Copy an image to your clipboard. Now run `Cmd-I` (Ctrl-I for Windows or Linux). Flip back to Mindflow and navigate to the timeline tab. You should see the copied image on your timeline.
 
-![Copy images](https://github.com/Arieg419/MindFlowElectron/blob/master/assets/img/mindflow_copyimage.gif "Get started")
+![Copy images](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_copyimage.gif "Get started")
 
 **Embed Youtube videos**
 
 Embed a youtube video Go to youtube and copy the url of a video like this one to your clipboard https://www.youtube.com/watch?v=s1Rd4UShDxQ. Now run `Cmd-Y` (Ctrl-Y for Windows or Linux).
 
-![Embed yt vid](https://github.com/Arieg419/MindFlowElectron/blob/master/assets/img/mindflow_video.gif "Get started")
+![Embed yt vid](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_video.gif "Get started")
 
 **Drag and Drop timeline nodes**
 
-![d&d](https://github.com/Arieg419/MindFlowElectron/blob/master/assets/img/mindflow_dragAndDrop.gif "Get started")
+![d&d](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_dragAndDrop.gif "Get started")
 
 **Search timeline**
 
-![Search timeline](https://github.com/Arieg419/MindFlowElectron/blob/master/assets/img/mindflow_search.gif "Search timeline")
+![Search timeline](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_search.gif "Search timeline")
 
 
 **Watching JS files for changes**
