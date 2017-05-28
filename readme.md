@@ -58,7 +58,7 @@ Embed a youtube video Go to youtube and copy the url of a video like this one to
 4. Edit JS file. The changes made to the file should now be reflected on your timeline.
 (This feature currently works on 1 file only)
 
-![File Change](https://github.com/Arieg419/MindFlowElectron/blob/master/assets/img/mindflow_code_snippet.gif "File Change")
+![File Change](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_code_snippet.gif "File Change")
 
 **Saving your timeline**
 
