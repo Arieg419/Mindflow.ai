@@ -10,8 +10,8 @@ These instructions will show you how to use Mindflow.
 
 ### Quick Start
 
-So far Mindflow.ai supports : 
-	* File watching 
+So far Mindflow.ai supports 
+	Markup : * File watching 
 	* Adding copied text 
 	* Adding images  
 	* Embedding youtube videos
