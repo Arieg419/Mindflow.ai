@@ -1,5 +1,5 @@
 # MindFlow.ai
-Mindflow.ai is software that runs in the background of your dev environment, and creates documentation based on your workflow.
+Mindflow.ai is SaaS platform that runs in the background of your dev environment, and creates documentation based on your workflow.
 
 ## Want to join our Alpha release?
 Email me at arieg419@gmail.com and we'll get you set up quickly :zap:
