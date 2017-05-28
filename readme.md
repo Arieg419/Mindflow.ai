@@ -12,8 +12,6 @@ These instructions will show you how to use Mindflow.
 
 So far Mindflow.ai supports adding copied text, images and embedding youtube videos.
 
-** Start Mindflow from terminal ** Have Mindflow.ai running from your terminal. You can minimize it or have it on the foreground of your desktop.
-
 Navigate to the timeline tab. It should be empty.
 
 ![Getting Started](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_intro.gif "Get started")
