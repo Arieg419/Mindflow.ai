@@ -11,18 +11,30 @@ These instructions will show you how to use Mindflow.
 ### Quick Start
 
 So far Mindflow.ai supports
-* Git integration
+* [Git integration](#gitintegration)
 * [File watching](#filewatch)
-* Adding copied text
-* Adding images  
-* Embedding youtube videos
-* Custom notes
+* [Adding copied text](#copytext)
+* [Adding images](#copyimages)  
+* [Embedding youtube videos](#copyvideos)
+* [Custom notes](#customnotes)
+* [Drag and Drop](#dd)
+* [Search Timeline](#search)
 
 Navigate to the timeline tab. It should be empty.
 
 ![#gettingstarted](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_intro.gif "Get started")
 
-**Copying text**
+### <a name="gitintegration"></a>Watching JS files for changes
+
+1. Navigate to the Home tab.
+
+2. Click on Open Timeline
+
+3. Select a directory with a .git directory.
+
+![#watchfile](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_git.gif)
+
+### <a name="copytext"></a> Copying text
 
 Copy some text to your clipboard. Now run `Cmd-C` (Ctrl-C for Windows or Linux). Flip back to Mindflow and navigate to the timeline tab.
 Now run 'Cmd-H' (Ctrl-H for Windows or Linux), You should see the text on the timeline.
@@ -30,30 +42,36 @@ Now run 'Cmd-H' (Ctrl-H for Windows or Linux), You should see the text on the ti
 ![#copytext](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_copytext.gif "Copy text")
 
 
-**Copying images**
+### <a name="copyimages"></a> Copying images
 
 Copy an image to your clipboard. Now run `Cmd-I` (Ctrl-I for Windows or Linux). Flip back to Mindflow and navigate to the timeline tab. You should see the copied image on your timeline.
 
 ![#copyimages](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_copyimage.gif "Get started")
 
-**Embed Youtube videos**
+### <a name="copyvideos"></a> Embed Youtube Videos
 
 Embed a youtube video Go to youtube and copy the url of a video like this one to your clipboard https://www.youtube.com/watch?v=s1Rd4UShDxQ. Now run `Cmd-Y` (Ctrl-Y for Windows or Linux).
 
 ![#copyvideo](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_video.gif "Get started")
 
-**Drag and Drop timeline nodes**
+### <a name="customnotes"></a> Custom notes
+
+Add a note
+
+![#customnotes](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/add_note.gif)
+
+### <a name="dd"></a> Drag and Drop timeline nodes
 
 ![#dd](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_dragAndDrop.gif "Get started")
 
-**Search timeline**
+### <a name="search"></a> Search timeline**
 
 ![#search](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_search.gif "Search timeline")
 
 
 ### <a name="filewatch"></a>Watching JS files for changes
 
-1. Navigate to the Sources tab.
+1. Navigate to the Home tab.
 
 2. Click on watch a JS file
 
