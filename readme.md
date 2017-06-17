@@ -10,11 +10,13 @@ These instructions will show you how to use Mindflow.
 
 ### Quick Start
 
-So far Mindflow.ai supports 
-* File watching 
-* Adding copied text 
+So far Mindflow.ai supports
+* Git integration
+* File watching
+* Adding copied text
 * Adding images  
 * Embedding youtube videos
+* Custom notes
 
 Navigate to the timeline tab. It should be empty.
 
