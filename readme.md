@@ -24,7 +24,7 @@ Navigate to the timeline tab. It should be empty.
 
 ![#gettingstarted](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_intro.gif "Get started")
 
-### <a name="gitintegration"></a>Watching JS files for changes
+### <a name="gitintegration"></a>Git integration
 
 1. Navigate to the Home tab.
 
