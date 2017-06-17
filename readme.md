@@ -12,7 +12,7 @@ These instructions will show you how to use Mindflow.
 
 So far Mindflow.ai supports
 * Git integration
-* [File watching](#)
+* [File watching](#filewatch)
 * Adding copied text
 * Adding images  
 * Embedding youtube videos
@@ -51,7 +51,7 @@ Embed a youtube video Go to youtube and copy the url of a video like this one to
 ![#search](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_search.gif "Search timeline")
 
 
-(###Watching JS files for changes)
+### <a name="filewatch"></a>Watching JS files for changes
 
 1. Navigate to the Sources tab.
 
