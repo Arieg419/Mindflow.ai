@@ -19,6 +19,7 @@ So far Mindflow.ai supports
 * [Custom notes](#customnotes)
 * [Drag and Drop](#dd)
 * [Search Timeline](#search)
+* [Generate Documentation](#generate)
 
 Navigate to the timeline tab. It should be empty.
 
@@ -81,6 +82,14 @@ Add a note
 (This feature currently works on 1 file only)
 
 ![#watchfile](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_code_snippet.gif "File Change")
+
+### <a name="generate"></a>Generate Documentation
+
+1. Navigate to timeline view.
+
+2. Run `Cmd-G` (Mac) or `Ctrl-G` (Windows)
+
+![#generate](https://github.com/Arieg419/Mindflow.ai/blob/master/assets/img/mindflow_generatedoc.gif "Generate Documentation")
 
 **Saving your timeline**
 
